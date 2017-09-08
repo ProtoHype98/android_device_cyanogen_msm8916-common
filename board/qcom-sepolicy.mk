@@ -1,1 +1,1 @@
-include device/qcom/sepolicy/Android.mk
+# include device/qcom/sepolicy/sepolicy.mk
