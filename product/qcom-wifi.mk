@@ -16,11 +16,12 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     libwcnss_qmi \
     wcnss_service \
+    hostapd \
     libwpa_client
 
 PRODUCT_PACKAGES += \
-	wificond \
-	wifilogd \
+    wificond \
+    wifilogd \
     wpa_supplicant \
     wpa_supplicant.conf
 
